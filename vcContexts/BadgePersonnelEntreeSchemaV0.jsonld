@@ -1,1 +1,23 @@
-{}
+{
+    "@context": {
+        "@version": 1.1,
+        "@protected": true,
+        "id": "@id",
+        "type": "@type",
+        "schema": "https://schema.org/",
+        "BadgePersonnelEntreeSchemaV0": {
+            "@id": "schema:BadgePersonnelEntreeSchemaV0",
+            "@context": {
+                "@version": 1.1,
+                "@protected": true,
+                "nom": "schema:name",
+                "prenoms": "schema:name",
+                "entite": "schema:name",
+                "affiliation": "schema:name",
+                "cat": "schema:name",
+                "exp": "schema:name",
+                "rat": "schema:name"
+            }
+        }
+    }
+}
