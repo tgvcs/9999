@@ -1,1 +1,8 @@
-{}
+[
+  {
+        "template": "BadgePersonnelEntreeSchemaV0",
+        "name": "Badge Personnel ATD",
+        "description": "Badge du Personnel ATD",
+        "source": "jxt"
+  }
+]
