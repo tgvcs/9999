@@ -14,6 +14,7 @@
                 "prenoms": "schema:name",
                 "entite": "schema:name",
                 "affiliation": "schema:name",
+                "uid": "schema:name",
                 "cat": "schema:name",
                 "exp": "schema:name",
                 "rat": "schema:name"
