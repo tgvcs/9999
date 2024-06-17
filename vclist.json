@@ -1,8 +1,14 @@
 [
   {
         "template": "BadgePersonnelEntreeSchemaV0",
-        "name": "Badge Personnel ATD",
-        "description": "Badge du Personnel ATD",
+        "name": "Badge Personnel Djanta Tech",
+        "description": "Personnel Djanta Tech",
+        "source": "jxt"
+  },
+  {
+        "template": "BadgeEntreeLaisserPasserSchemaV0",
+        "name": "Badge Laisser Passer Djanta Tech",
+        "description": "Laisser passer Djanta Tech",
         "source": "jxt"
   }
 ]
