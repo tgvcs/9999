@@ -1,13 +1,13 @@
 [
   {
         "template": "BadgePersonnelEntreeSchemaV0",
-        "name": "Badge Personnel Djanta Tech",
+        "name": "Djanta Tech Badge Personnel",
         "description": "Personnel Djanta Tech",
         "source": "jxt"
   },
   {
         "template": "BadgeEntreeLaisserPasserSchemaV0",
-        "name": "Badge Laisser Passer Djanta Tech",
+        "name": "Djanta Tech Badge Laisser Passer",
         "description": "Laisser passer Djanta Tech",
         "source": "jxt"
   }
